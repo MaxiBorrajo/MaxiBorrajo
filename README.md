@@ -2,6 +2,7 @@
 <h3 align="center">I am a disciplined and competitive Backend Developer, currently pursuing a Bachelor's degree in Computer Science at the National University of Quilmes. I have a strong passion for learning in general, and above all, for programming. Furthermore, I have practical experience through projects involving Node.js, Express.js, PostgreSQL, and MongoDB. I also know Frontend, specifically Vue.js. Finally, thanks to my academic background, I possess knowledge in Object-Oriented Programming (OOP), Entity-Relationship Modeling (ER), Database Normalization, and clean code practices, among others.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxiborrajo" alt="maxiborrajo" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 - 🔭 I’m currently working on [E-commerce API](https://github.com/MaxiBorrajo/Curso-coder-backend.git)
 
